@@ -1,2 +1,2 @@
 # json-parser
-Json Parser for native Java applications
+This repository provides a class for Json Parser using only native java libraries.
